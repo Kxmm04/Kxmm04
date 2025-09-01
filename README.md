@@ -27,11 +27,14 @@
 
 ---
 
-## 📊 GitHub Stats
-![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kxmm04&show_icons=true&theme=radical)
+## 📊 GitHub Stats & 💡 Top Languages
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kxmm04&show_icons=true&theme=radical" 
+       alt="Kim's GitHub stats" width="400" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kxmm04&layout=compact&theme=radical" 
+       alt="Top Languages" width="358" style="display:inline-block; margin-left:20px;"/>
+</div>
 
-## 💡 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxmm04&layout=compact&theme=radical)
 
 ---
 
