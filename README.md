@@ -1,18 +1,13 @@
 ![shrek](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlveHl6Nmx2dzRsMGw1ZHFwczZ3amZydHM3eHI0cWtlZjdhdHE2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqtNlBsWoEXDy/giphy.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kim;From+Thailand+🇹🇭&fontWeight=bold)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asimovian&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kim;&fontWeight=bold)](https://git.io/typing-svg)
 
 ## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="Waving Hand" width="30" height="30"> About Me
 ✨ Student/Developer learning web development  
 💻 Interested in ![HTML](https://img.shields.io/badge/HTML-gray) ![CSS](https://img.shields.io/badge/CSS-gray) ![Java](https://img.shields.io/badge/Java-gray) ![JavaScript](https://img.shields.io/badge/JavaScript-gray) & ![Python](https://img.shields.io/badge/Python-gray)  
 🚀 Goal: Build awesome websites and share projects on GitHub  
 🌟 Always learning, experimenting, and having fun along the way!
-
-
-
-
 
 ---
 
