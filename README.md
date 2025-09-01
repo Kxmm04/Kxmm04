@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Kxmm04  
 
-<!--
-**Kxmm04/Kxmm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 กำลังเรียนรู้: HTML, CSS, JavaScript  
+💻 สนใจ: Web Development, UI/UX  
+📚 เป้าหมาย: ทำโปรเจกต์เว็บสวย ๆ และแชร์ความรู้บน GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I'm Proud Of
+| Project | Tech | What I Did |
+|---------|------|------------|
+| Project 1 | HTML + CSS | Landing page สวย ๆ |
+| Project 2 | JavaScript | Interactive mini app |
+| Project 3 | SQL | ระบบฐานข้อมูล |
+
+---
+
+## 📫 ติดต่อ
+[![GitHub](https://img.shields.io/badge/GitHub-Kxmm04-black?logo=github)](https://github.com/Kxmm04)
