@@ -84,16 +84,6 @@ Mood     : Let's build something! 🔥
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kxmm04&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -106,7 +96,7 @@ Mood     : Let's build something! 🔥
 
 </div>
 
-> ⚠️ Snake animation ต้องตั้ง GitHub Action ก่อน — ดูวิธีด้านล่าง
+> ⚠️ Snake animation ต้องตั้ง GitHub Action ก่อน
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
